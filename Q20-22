@@ -1,0 +1,8 @@
+const cities = ["london", "munich", "cancun", "paris", "tokyo"];
+const cities_Object = {
+  LONDON: "london",
+  MUNCHI: "munchi",
+  CANCUN: "cancun",
+  PARIS: "paris",
+  TOKYO: "tokyo",
+};
